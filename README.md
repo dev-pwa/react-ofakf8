@@ -1,3 +1,6 @@
-# react-ofakf8
+import React from "react";
+import ReactDOM from "react-dom";
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ofakf8)
+import App from "./App";
+
+ReactDOM.render(<App />, document.getElementById("root"));
